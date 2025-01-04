@@ -1,0 +1,8 @@
+-BB-BB
+R-B-BB
+RR-BB-
+R-R-BB
+-RRR-B
+RRRRR-
+BLUE KING Position: (5,5)
+RED KING Position: (3,1)
